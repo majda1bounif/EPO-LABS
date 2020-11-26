@@ -1,0 +1,14 @@
+C:\Users\Majda\source\repos\Epo_2\Epo_2\bin\Debug\Epo_2.exe.config
+C:\Users\Majda\source\repos\Epo_2\Epo_2\bin\Debug\Epo_2.exe
+C:\Users\Majda\source\repos\Epo_2\Epo_2\bin\Debug\Epo_2.pdb
+C:\Users\Majda\source\repos\Epo_2\Epo_2\obj\Debug\Epo_2.csprojAssemblyReference.cache
+C:\Users\Majda\source\repos\Epo_2\Epo_2\obj\Debug\Epo_2.csproj.CoreCompileInputs.cache
+C:\Users\Majda\source\repos\Epo_2\Epo_2\obj\Debug\Epo_2.exe
+C:\Users\Majda\source\repos\Epo_2\Epo_2\obj\Debug\Epo_2.pdb
+C:\Users\user\Desktop\Epo_2\Epo_2\bin\Debug\Epo_2.exe.config
+C:\Users\user\Desktop\Epo_2\Epo_2\bin\Debug\Epo_2.exe
+C:\Users\user\Desktop\Epo_2\Epo_2\bin\Debug\Epo_2.pdb
+C:\Users\user\Desktop\Epo_2\Epo_2\obj\Debug\Epo_2.csprojAssemblyReference.cache
+C:\Users\user\Desktop\Epo_2\Epo_2\obj\Debug\Epo_2.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Epo_2\Epo_2\obj\Debug\Epo_2.exe
+C:\Users\user\Desktop\Epo_2\Epo_2\obj\Debug\Epo_2.pdb
