@@ -1,0 +1,14 @@
+D:\Study of KubGTU\Учеба 5 СЕМЕСТР\ЭПО Волик Александр Георгиевич\Лабы ЭПО\Epo_3\Epo_3\bin\Debug\Epo_3.exe.config
+D:\Study of KubGTU\Учеба 5 СЕМЕСТР\ЭПО Волик Александр Георгиевич\Лабы ЭПО\Epo_3\Epo_3\bin\Debug\Epo_3.exe
+D:\Study of KubGTU\Учеба 5 СЕМЕСТР\ЭПО Волик Александр Георгиевич\Лабы ЭПО\Epo_3\Epo_3\bin\Debug\Epo_3.pdb
+D:\Study of KubGTU\Учеба 5 СЕМЕСТР\ЭПО Волик Александр Георгиевич\Лабы ЭПО\Epo_3\Epo_3\obj\Debug\Epo_3.csprojAssemblyReference.cache
+D:\Study of KubGTU\Учеба 5 СЕМЕСТР\ЭПО Волик Александр Георгиевич\Лабы ЭПО\Epo_3\Epo_3\obj\Debug\Epo_3.csproj.CoreCompileInputs.cache
+D:\Study of KubGTU\Учеба 5 СЕМЕСТР\ЭПО Волик Александр Георгиевич\Лабы ЭПО\Epo_3\Epo_3\obj\Debug\Epo_3.exe
+D:\Study of KubGTU\Учеба 5 СЕМЕСТР\ЭПО Волик Александр Георгиевич\Лабы ЭПО\Epo_3\Epo_3\obj\Debug\Epo_3.pdb
+C:\Users\user\Desktop\Epo_3\Epo_3\bin\Debug\Epo_3.exe.config
+C:\Users\user\Desktop\Epo_3\Epo_3\bin\Debug\Epo_3.exe
+C:\Users\user\Desktop\Epo_3\Epo_3\bin\Debug\Epo_3.pdb
+C:\Users\user\Desktop\Epo_3\Epo_3\obj\Debug\Epo_3.csprojAssemblyReference.cache
+C:\Users\user\Desktop\Epo_3\Epo_3\obj\Debug\Epo_3.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Epo_3\Epo_3\obj\Debug\Epo_3.exe
+C:\Users\user\Desktop\Epo_3\Epo_3\obj\Debug\Epo_3.pdb

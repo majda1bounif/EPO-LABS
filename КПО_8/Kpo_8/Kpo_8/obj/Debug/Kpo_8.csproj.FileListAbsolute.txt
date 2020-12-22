@@ -1,0 +1,13 @@
+C:\Users\Majda\source\repos\Kpo_8\Kpo_8\bin\Debug\Kpo_8.exe.config
+C:\Users\Majda\source\repos\Kpo_8\Kpo_8\bin\Debug\Kpo_8.exe
+C:\Users\Majda\source\repos\Kpo_8\Kpo_8\bin\Debug\Kpo_8.pdb
+C:\Users\Majda\source\repos\Kpo_8\Kpo_8\obj\Debug\Kpo_8.csprojAssemblyReference.cache
+C:\Users\Majda\source\repos\Kpo_8\Kpo_8\obj\Debug\Kpo_8.Form1.resources
+C:\Users\Majda\source\repos\Kpo_8\Kpo_8\obj\Debug\Kpo_8.csproj.GenerateResource.cache
+C:\Users\Majda\source\repos\Kpo_8\Kpo_8\obj\Debug\Kpo_8.csproj.CoreCompileInputs.cache
+C:\Users\Majda\source\repos\Kpo_8\Kpo_8\obj\Debug\Kpo_8.exe
+C:\Users\Majda\source\repos\Kpo_8\Kpo_8\obj\Debug\Kpo_8.pdb
+C:\Users\Majda\source\repos\Kpo_8\Kpo_8\bin\Debug\nunit.framework.dll
+C:\Users\Majda\source\repos\Kpo_8\Kpo_8\bin\Debug\nunit.framework.pdb
+C:\Users\Majda\source\repos\Kpo_8\Kpo_8\bin\Debug\nunit.framework.xml
+C:\Users\Majda\source\repos\Kpo_8\Kpo_8\obj\Debug\Kpo_8.csproj.CopyComplete

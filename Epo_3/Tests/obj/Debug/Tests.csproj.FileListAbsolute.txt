@@ -1,0 +1,54 @@
+D:\Study of KubGTU\Учеба 5 СЕМЕСТР\ЭПО Волик Александр Георгиевич\Лабы ЭПО\Epo_3\Tests\bin\Debug\NUnit3.TestAdapter.dll
+D:\Study of KubGTU\Учеба 5 СЕМЕСТР\ЭПО Волик Александр Георгиевич\Лабы ЭПО\Epo_3\Tests\bin\Debug\NUnit3.TestAdapter.pdb
+D:\Study of KubGTU\Учеба 5 СЕМЕСТР\ЭПО Волик Александр Георгиевич\Лабы ЭПО\Epo_3\Tests\bin\Debug\nunit.engine.dll
+D:\Study of KubGTU\Учеба 5 СЕМЕСТР\ЭПО Волик Александр Георгиевич\Лабы ЭПО\Epo_3\Tests\bin\Debug\nunit.engine.api.dll
+D:\Study of KubGTU\Учеба 5 СЕМЕСТР\ЭПО Волик Александр Георгиевич\Лабы ЭПО\Epo_3\Tests\bin\Debug\nunit.engine.core.dll
+D:\Study of KubGTU\Учеба 5 СЕМЕСТР\ЭПО Волик Александр Георгиевич\Лабы ЭПО\Epo_3\Tests\bin\Debug\Tests.dll
+D:\Study of KubGTU\Учеба 5 СЕМЕСТР\ЭПО Волик Александр Георгиевич\Лабы ЭПО\Epo_3\Tests\bin\Debug\Tests.pdb
+D:\Study of KubGTU\Учеба 5 СЕМЕСТР\ЭПО Волик Александр Георгиевич\Лабы ЭПО\Epo_3\Tests\bin\Debug\Epo_3.exe
+D:\Study of KubGTU\Учеба 5 СЕМЕСТР\ЭПО Волик Александр Георгиевич\Лабы ЭПО\Epo_3\Tests\bin\Debug\nunit.framework.dll
+D:\Study of KubGTU\Учеба 5 СЕМЕСТР\ЭПО Волик Александр Георгиевич\Лабы ЭПО\Epo_3\Tests\bin\Debug\Epo_3.pdb
+D:\Study of KubGTU\Учеба 5 СЕМЕСТР\ЭПО Волик Александр Георгиевич\Лабы ЭПО\Epo_3\Tests\bin\Debug\Epo_3.exe.config
+D:\Study of KubGTU\Учеба 5 СЕМЕСТР\ЭПО Волик Александр Георгиевич\Лабы ЭПО\Epo_3\Tests\bin\Debug\nunit.framework.pdb
+D:\Study of KubGTU\Учеба 5 СЕМЕСТР\ЭПО Волик Александр Георгиевич\Лабы ЭПО\Epo_3\Tests\bin\Debug\nunit.framework.xml
+D:\Study of KubGTU\Учеба 5 СЕМЕСТР\ЭПО Волик Александр Георгиевич\Лабы ЭПО\Epo_3\Tests\obj\Debug\Tests.csprojAssemblyReference.cache
+D:\Study of KubGTU\Учеба 5 СЕМЕСТР\ЭПО Волик Александр Георгиевич\Лабы ЭПО\Epo_3\Tests\obj\Debug\Tests.csproj.CoreCompileInputs.cache
+D:\Study of KubGTU\Учеба 5 СЕМЕСТР\ЭПО Волик Александр Георгиевич\Лабы ЭПО\Epo_3\Tests\obj\Debug\Tests.csproj.CopyComplete
+D:\Study of KubGTU\Учеба 5 СЕМЕСТР\ЭПО Волик Александр Георгиевич\Лабы ЭПО\Epo_3\Tests\obj\Debug\Tests.dll
+D:\Study of KubGTU\Учеба 5 СЕМЕСТР\ЭПО Волик Александр Георгиевич\Лабы ЭПО\Epo_3\Tests\obj\Debug\Tests.pdb
+D:\Study of KubGTU\Учеба 5 СЕМЕСТР\ЭПО Волик Александр Георгиевич\Majda\Epo_3\Tests\bin\Debug\NUnit3.TestAdapter.dll
+D:\Study of KubGTU\Учеба 5 СЕМЕСТР\ЭПО Волик Александр Георгиевич\Majda\Epo_3\Tests\bin\Debug\NUnit3.TestAdapter.pdb
+D:\Study of KubGTU\Учеба 5 СЕМЕСТР\ЭПО Волик Александр Георгиевич\Majda\Epo_3\Tests\bin\Debug\nunit.engine.dll
+D:\Study of KubGTU\Учеба 5 СЕМЕСТР\ЭПО Волик Александр Георгиевич\Majda\Epo_3\Tests\bin\Debug\nunit.engine.api.dll
+D:\Study of KubGTU\Учеба 5 СЕМЕСТР\ЭПО Волик Александр Георгиевич\Majda\Epo_3\Tests\bin\Debug\nunit.engine.core.dll
+D:\Study of KubGTU\Учеба 5 СЕМЕСТР\ЭПО Волик Александр Георгиевич\Majda\Epo_3\Tests\bin\Debug\Tests.dll
+D:\Study of KubGTU\Учеба 5 СЕМЕСТР\ЭПО Волик Александр Георгиевич\Majda\Epo_3\Tests\bin\Debug\Tests.pdb
+D:\Study of KubGTU\Учеба 5 СЕМЕСТР\ЭПО Волик Александр Георгиевич\Majda\Epo_3\Tests\bin\Debug\Epo_3.exe
+D:\Study of KubGTU\Учеба 5 СЕМЕСТР\ЭПО Волик Александр Георгиевич\Majda\Epo_3\Tests\bin\Debug\nunit.framework.dll
+D:\Study of KubGTU\Учеба 5 СЕМЕСТР\ЭПО Волик Александр Георгиевич\Majda\Epo_3\Tests\bin\Debug\Epo_3.pdb
+D:\Study of KubGTU\Учеба 5 СЕМЕСТР\ЭПО Волик Александр Георгиевич\Majda\Epo_3\Tests\bin\Debug\Epo_3.exe.config
+D:\Study of KubGTU\Учеба 5 СЕМЕСТР\ЭПО Волик Александр Георгиевич\Majda\Epo_3\Tests\bin\Debug\nunit.framework.pdb
+D:\Study of KubGTU\Учеба 5 СЕМЕСТР\ЭПО Волик Александр Георгиевич\Majda\Epo_3\Tests\bin\Debug\nunit.framework.xml
+D:\Study of KubGTU\Учеба 5 СЕМЕСТР\ЭПО Волик Александр Георгиевич\Majda\Epo_3\Tests\obj\Debug\Tests.csprojAssemblyReference.cache
+D:\Study of KubGTU\Учеба 5 СЕМЕСТР\ЭПО Волик Александр Георгиевич\Majda\Epo_3\Tests\obj\Debug\Tests.csproj.CoreCompileInputs.cache
+D:\Study of KubGTU\Учеба 5 СЕМЕСТР\ЭПО Волик Александр Георгиевич\Majda\Epo_3\Tests\obj\Debug\Tests.csproj.CopyComplete
+D:\Study of KubGTU\Учеба 5 СЕМЕСТР\ЭПО Волик Александр Георгиевич\Majda\Epo_3\Tests\obj\Debug\Tests.dll
+D:\Study of KubGTU\Учеба 5 СЕМЕСТР\ЭПО Волик Александр Георгиевич\Majda\Epo_3\Tests\obj\Debug\Tests.pdb
+C:\Users\user\Desktop\Epo_3\Tests\bin\Debug\NUnit3.TestAdapter.dll
+C:\Users\user\Desktop\Epo_3\Tests\bin\Debug\NUnit3.TestAdapter.pdb
+C:\Users\user\Desktop\Epo_3\Tests\bin\Debug\nunit.engine.dll
+C:\Users\user\Desktop\Epo_3\Tests\bin\Debug\nunit.engine.api.dll
+C:\Users\user\Desktop\Epo_3\Tests\bin\Debug\nunit.engine.core.dll
+C:\Users\user\Desktop\Epo_3\Tests\bin\Debug\Tests.dll
+C:\Users\user\Desktop\Epo_3\Tests\bin\Debug\Tests.pdb
+C:\Users\user\Desktop\Epo_3\Tests\bin\Debug\Epo_3.exe
+C:\Users\user\Desktop\Epo_3\Tests\bin\Debug\nunit.framework.dll
+C:\Users\user\Desktop\Epo_3\Tests\bin\Debug\Epo_3.pdb
+C:\Users\user\Desktop\Epo_3\Tests\bin\Debug\Epo_3.exe.config
+C:\Users\user\Desktop\Epo_3\Tests\bin\Debug\nunit.framework.pdb
+C:\Users\user\Desktop\Epo_3\Tests\bin\Debug\nunit.framework.xml
+C:\Users\user\Desktop\Epo_3\Tests\obj\Debug\Tests.csprojAssemblyReference.cache
+C:\Users\user\Desktop\Epo_3\Tests\obj\Debug\Tests.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Epo_3\Tests\obj\Debug\Tests.csproj.CopyComplete
+C:\Users\user\Desktop\Epo_3\Tests\obj\Debug\Tests.dll
+C:\Users\user\Desktop\Epo_3\Tests\obj\Debug\Tests.pdb

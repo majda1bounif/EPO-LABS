@@ -1,0 +1,14 @@
+D:\Study of KubGTU\Учеба 5 СЕМЕСТР\ЭПО Волик Александр Георгиевич\Лабы ЭПО\Majda\Epo_5\Epo_5\bin\Debug\Epo_5.exe.config
+D:\Study of KubGTU\Учеба 5 СЕМЕСТР\ЭПО Волик Александр Георгиевич\Лабы ЭПО\Majda\Epo_5\Epo_5\bin\Debug\Epo_5.exe
+D:\Study of KubGTU\Учеба 5 СЕМЕСТР\ЭПО Волик Александр Георгиевич\Лабы ЭПО\Majda\Epo_5\Epo_5\bin\Debug\Epo_5.pdb
+D:\Study of KubGTU\Учеба 5 СЕМЕСТР\ЭПО Волик Александр Георгиевич\Лабы ЭПО\Majda\Epo_5\Epo_5\obj\Debug\Epo_5.csprojAssemblyReference.cache
+D:\Study of KubGTU\Учеба 5 СЕМЕСТР\ЭПО Волик Александр Георгиевич\Лабы ЭПО\Majda\Epo_5\Epo_5\obj\Debug\Epo_5.csproj.CoreCompileInputs.cache
+D:\Study of KubGTU\Учеба 5 СЕМЕСТР\ЭПО Волик Александр Георгиевич\Лабы ЭПО\Majda\Epo_5\Epo_5\obj\Debug\Epo_5.exe
+D:\Study of KubGTU\Учеба 5 СЕМЕСТР\ЭПО Волик Александр Георгиевич\Лабы ЭПО\Majda\Epo_5\Epo_5\obj\Debug\Epo_5.pdb
+C:\Users\user\Desktop\Majda\Epo_5\Epo_5\bin\Debug\Epo_5.exe.config
+C:\Users\user\Desktop\Majda\Epo_5\Epo_5\bin\Debug\Epo_5.exe
+C:\Users\user\Desktop\Majda\Epo_5\Epo_5\bin\Debug\Epo_5.pdb
+C:\Users\user\Desktop\Majda\Epo_5\Epo_5\obj\Debug\Epo_5.csprojAssemblyReference.cache
+C:\Users\user\Desktop\Majda\Epo_5\Epo_5\obj\Debug\Epo_5.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Majda\Epo_5\Epo_5\obj\Debug\Epo_5.exe
+C:\Users\user\Desktop\Majda\Epo_5\Epo_5\obj\Debug\Epo_5.pdb
